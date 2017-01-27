@@ -1,2 +1,3 @@
 # hello-world
 Learning Git...
+I'm in SLC, Utah learning JavaScript at DPL
